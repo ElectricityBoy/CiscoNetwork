@@ -1,8 +1,6 @@
-<img src="https://media3.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" align="right" width = "150"/>
-
 # Introduction to Network Cisco
 
-The course has seventen modules divided by
+The course has seventeen modules divided by
 
 - [ ] Comunicação e Conectividade de Rede Básica
 - [ ] Conceitos de Ethernet
