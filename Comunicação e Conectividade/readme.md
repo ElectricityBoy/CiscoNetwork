@@ -108,3 +108,43 @@ Intranet é um termo para se referir a uma conexão privada de LANs e WANs que p
 A organização pode usar uma **Extranet** para dar acesso a terceiros de modo seguro.
 
 ![alt text](image-4.png)
+
+# Redes confiáveis
+
+## Tolerancia a falhas
+
+Uma rede tolerante  a falhas é aquela que limita o numero de dispositivos durante uma falha. Ocorre isso para **permitir uma rápica recuperação da rede.**
+
+Uma rede comutada por pacotes é uma das maneiras em que as redes confiaveis fornecem redundância (caminho alternativo).
+
+A comutação de pacotes divvide os dados do tráfego em pacotes que são roteados por uma rede compartihada, ou seja, um dado é dividido em varios blocos chamados pacotes.
+
+Cada pacote tem as informações de endereço necessários da origem e destino da mensagem. Os roteadores alternam os pacotes de acordo com a condição da rede no momento. Sendo assim, pacotes em uma unica mensagem podem seghuir caminhos diferentes para o mesmo destino.
+
+
+## Escalabilidade
+
+Uma rede escalonavel é aquela que se expande para oferecer suporte para novos usuários e aplicativos sem degradar o desempenho dos serviços.
+
+- Uso de padrões e protocolos padrões
+
+# Tendências das Redes
+
+- BYOD Bring Yout Own Device
+É um conceito de qualquer conteudo para qualquer dispositivo.  É uma tendencia que requer mudanças significativas nas tecnologias e como nos conectamos com segurança as redes.
+- Colaboração online
+Conceito de coworking.
+- Colaboração por video
+- Colaboração em nuvem
+Maneira pela qual acessamos e armazenamos dados. Geralmente em data centers.
+### Cloud types
+
+ - **Nuvens Publicas**: São criados disponível para a população em geral.
+ - **Nuvens Privadas** : São seviços baseados em nuvems privada destinados a uma organização ou entidade especifica.
+- **Nuvem hibrida**: É composta por uma ou mais nuvens onde cada parte permanece a um objeto distindo, mas ambos são conectados usando uma unica arquitetura. Exemplo, ter graus de acessos diferentes a varios serviços.
+- **Nuvens comunitarias**: É criada para uso exclusivo por entidades ou organizações específicas. 
+Sua diferença está nas necessidades funcionais que foram personalizadas para atender uma comunidade.
+
+## Banda Larga Sem Fio
+
+Um provedor de serviços de internet sem fio (WASP)
